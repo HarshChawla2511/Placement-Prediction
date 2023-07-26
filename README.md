@@ -1,4 +1,4 @@
-Campus Placement Prediction is a ML project.
+Campus Placement Prediction is a ML model.
 
 It predicts if a student will be placed based on its data like SSC-Percentage,	HSC_Percentage, Professional Degree,	Work Experience, Specialization	etc.
 
